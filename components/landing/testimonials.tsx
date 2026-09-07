@@ -37,7 +37,7 @@ export function Testimonials() {
             <p className="mb-2 text-xs font-semibold uppercase tracking-widest text-primary">
               Citizen Stories
             </p>
-            <h2 className="max-w-xl text-3xl font-semibold tracking-tight text-foreground">
+            <h2 className="max-w-xl text-4xl font-bold tracking-tight text-foreground">
               Trusted by citizens across Ethiopia
             </h2>
           </div>

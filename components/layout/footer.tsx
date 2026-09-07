@@ -63,7 +63,7 @@ export function Footer() {
             <span className="mb-4 inline-flex w-fit rounded-full border border-accent/40 bg-accent/15 px-3 py-1 text-[11px] font-semibold uppercase tracking-widest text-accent">
               Our Vision
             </span>
-            <h2 className="text-3xl font-semibold tracking-tight text-primary-foreground sm:text-4xl">
+            <h2 className="text-4xl font-bold tracking-tight text-primary-foreground sm:text-5xl">
               Transforming Ethiopia&apos;s Future
             </h2>
             <p className="mt-4 text-sm leading-relaxed text-primary-foreground/70">

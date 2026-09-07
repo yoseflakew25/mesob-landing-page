@@ -49,7 +49,7 @@ export function HowItWorks() {
             <span className="mb-4 inline-flex w-fit rounded-full border border-accent/40 bg-accent/15 px-3 py-1 text-[11px] font-semibold uppercase tracking-widest text-accent">
               How It Works
             </span>
-            <h2 className="text-3xl font-semibold tracking-tight text-primary-foreground">
+            <h2 className="text-5xl font-bold tracking-tight text-primary-foreground">
               Get government services in four steps
             </h2>
             <p className="mt-4 text-sm leading-relaxed text-primary-foreground/80">

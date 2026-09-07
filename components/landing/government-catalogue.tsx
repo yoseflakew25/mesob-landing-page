@@ -227,7 +227,7 @@ export function GovernmentCatalogue() {
 
   return (
     <>
-      <section id="government-catalogue" className="relative overflow-hidden border-b border-border/50 bg-background py-8 lg:py-10">
+      <section id="government-catalogue" className="relative overflow-hidden border-b border-border/50 bg-background py-8 lg:py-20">
         {/* Grid overlay */}
         <div aria-hidden className="pointer-events-none absolute inset-0 opacity-[0.03] dark:opacity-[0.05]"
           style={{ backgroundImage: "linear-gradient(to right, currentColor 1px, transparent 1px), linear-gradient(to bottom, currentColor 1px, transparent 1px)", backgroundSize: "40px 40px" }}
@@ -236,12 +236,12 @@ export function GovernmentCatalogue() {
         <div className="container relative mx-auto px-6 lg:px-8">
           {/* Heading */}
           <FadeIn direction="up">
-            <div className="mx-auto mb-5 max-w-2xl text-center">
+            <div className="mx-auto mb-5 max-w-3xl text-center">
               <span className="mb-4 inline-flex w-fit rounded-full border border-accent/30 bg-accent/5 px-3 py-1 text-[11px] font-semibold uppercase tracking-widest text-accent">
                 Government Service Catalogue
               </span>
-              <h2 className="text-3xl font-semibold tracking-tight text-primary">Browse government organizations</h2>
-              <p className="mt-3 text-sm leading-relaxed text-muted-foreground">
+              <h2 className="text-5xl font-bold tracking-tight text-primary">Browse Government Organizations</h2>
+              <p className="mt-4 text-md leading-relaxed text-muted-foreground">
                 Explore agencies, ministries, and services at MESOB Center.
               </p>
             </div>
@@ -250,7 +250,7 @@ export function GovernmentCatalogue() {
 
 
           {/* Carousel cards */}
-          <div className="relative">
+          <div className="relative py-4">
             {/* Prev arrow */}
             {currentPage > 0 && (
               <button

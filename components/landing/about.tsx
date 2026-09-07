@@ -32,7 +32,7 @@ export function About() {
                 Serving Our Community with Excellence
               </Badge>
 
-              <h2 className="text-3xl font-semibold tracking-tight text-primary sm:text-4xl">
+              <h2 className="text-4xl font-bold tracking-tight text-primary sm:text-5xl">
                 One <span className="text-primary">MESOB</span> Center, endless possibilities
               </h2>
 

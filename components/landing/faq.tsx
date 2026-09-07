@@ -116,10 +116,10 @@ export function FAQ() {
             <span className="mb-4 inline-flex w-fit rounded-full border border-accent/30 bg-accent/5 px-3 py-1 text-[11px] font-semibold uppercase tracking-widest text-accent">
               FAQ
             </span>
-            <h2 className="text-3xl font-semibold tracking-tight text-primary">
+            <h2 className="text-5xl font-bold tracking-tight text-primary">
               Frequently asked questions
             </h2>
-            <p className="mt-3 text-sm leading-relaxed text-muted-foreground">
+            <p className="mt-4 text-md leading-relaxed text-muted-foreground">
               Everything you need to know about MESOB Center services. Can&apos;t find
               what you&apos;re looking for? Visit your nearest center for more information.
             </p>

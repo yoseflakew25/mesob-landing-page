@@ -56,11 +56,11 @@ export function Locations() {
       <div className="container relative mx-auto px-6 lg:px-8">
         {/* Heading */}
         <FadeIn direction="up">
-          <div className="mb-14 max-w-2xl">
+          <div className="mb-14 max-w-4xl">
             <span className="mb-4 inline-flex w-fit rounded-full border border-accent/40 bg-accent/15 px-3 py-1 text-[11px] font-semibold uppercase tracking-widest text-accent">
               Our Main Center
             </span>
-            <h2 className="text-3xl font-semibold tracking-tight text-primary-foreground sm:text-4xl">
+            <h2 className="text-4xl font-bold tracking-tight text-primary-foreground sm:text-5xl">
               Visit our headquarters located in the heart of Addis Ababa
             </h2>
             <p className="mt-3 text-sm leading-relaxed text-primary-foreground/70">

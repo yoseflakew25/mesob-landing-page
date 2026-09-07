@@ -178,8 +178,8 @@ export function ContactForm() {
             >
               Get in Touch
             </Badge>
-            <h2 className="text-3xl font-semibold tracking-tight text-primary sm:text-4xl">
-              Get in touch with MESOB Center
+            <h2 className="text-4xl font-bold tracking-tight text-primary sm:text-5xl">
+              Get in touch with <br /> MESOB Center
             </h2>
             <p className="mt-3 max-w-lg text-sm leading-relaxed text-muted-foreground">
               Have a question, feedback, or need assistance? Fill out the form

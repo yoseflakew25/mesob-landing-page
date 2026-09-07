@@ -57,11 +57,11 @@ export function Features() {
       <div className="container relative mx-auto px-6 lg:px-8">
         {/* Heading */}
         <FadeIn direction="up">
-          <div className="mb-12 max-w-2xl">
+          <div className="mb-12 max-w-3xl">
             <span className="mb-4 inline-flex w-fit rounded-full border border-accent/30 bg-accent/5 px-3 py-1 text-[11px] font-semibold uppercase tracking-widest text-accent">
               Our Services
             </span>
-            <h2 className="text-3xl font-semibold tracking-tight text-primary">
+            <h2 className="text-5xl font-bold tracking-tight text-primary">
               Services tailored for every need
             </h2>
             <p className="mt-3 text-sm leading-relaxed text-muted-foreground">

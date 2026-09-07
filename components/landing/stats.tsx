@@ -30,7 +30,7 @@ export function Stats() {
               className="flex flex-col gap-1 px-6 py-8 first:pl-0 lg:last:pr-0"
               style={{ animationDelay: `${i * 150}ms` }}
             >
-              <p className="text-3xl font-semibold tracking-tight text-white">
+              <p className="text-4xl font-bold tracking-tight text-white">
                 <AnimatedCounter target={s.value} suffix={s.suffix} duration={2} />
               </p>
               <p className="text-sm font-medium text-primary-foreground">{s.label}</p>

@@ -290,7 +290,7 @@ export function ServiceCatalogue() {
             <span className="mb-4 inline-flex w-fit rounded-full border border-accent/30 bg-accent/5 px-3 py-1 text-[11px] font-semibold uppercase tracking-widest text-accent">
               Service Catalogue
             </span>
-            <h2 className="text-3xl font-semibold tracking-tight text-primary">
+            <h2 className="text-4xl font-bold tracking-tight text-primary">
               Explore all {TOTAL_SERVICES}+ services
             </h2>
             <p className="mt-3 text-sm leading-relaxed text-muted-foreground">

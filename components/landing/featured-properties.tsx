@@ -74,7 +74,7 @@ export function FeaturedProperties() {
               <span className="mb-4 inline-flex w-fit rounded-full border border-accent/30 bg-accent/5 px-3 py-1 text-[11px] font-semibold uppercase tracking-widest text-accent">
                 Available Organizations
               </span>
-              <h2 className="text-3xl font-semibold tracking-tight text-primary">
+              <h2 className="text-4xl font-bold tracking-tight text-primary">
                 Government Services at MESOB Center
               </h2>
             </div>

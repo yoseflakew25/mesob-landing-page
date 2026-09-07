@@ -76,7 +76,7 @@ export function Hero() {
             The New Horizon of Service!
           </Badge>
 
-          <h1 className="text-4xl font-semibold tracking-tight text-foreground sm:text-5xl lg:text-[3.25rem] lg:leading-[1.1]">
+          <h1 className="text-4xl font-bold tracking-tight text-foreground sm:text-5xl lg:text-[3.25rem] lg:leading-[1.1]">
             FDRE <span className="text-primary">MESOB</span>
             <br />
             SERVICE
